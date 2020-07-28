@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/block/card-builder/style.scss"],"names":[],"mappings":"AAAA;AACA,iBAAiB","file":"style.css","sourcesContent":[".wp-block-wds-card-builder {\n  color: #ce4646; }\n"],"sourceRoot":""}
